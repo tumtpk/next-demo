@@ -28,7 +28,7 @@ export default async function Home() {
         <div className="card"><h3>Posts</h3><p>Total: <b>{'posts' in data ? data.posts : 0}</b></p></div>
       </div>
       <p style={{ marginTop: 12, color: '#666' }}>
-        SSR calls <code>/api/users</code> and <code>/api/posts</code> and forwards cookies/headers.
+        SSR calls2 <code>/api/users</code> and <code>/api/posts</code> and forwards cookies/headers.
       </p>
     </section>
   );
