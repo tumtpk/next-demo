@@ -8,7 +8,7 @@ const USERS: User[] = [
 ];
 
 const POSTS: Post[] = [
-  { id: 101, title: 'Hello Next.js', body: 'This is a mock post about Next.js.', authorId: 1 },
+  { id: 101, title: 'Hello Next.js', body: 'This is a mock post team Next.js.', authorId: 1 },
   { id: 102, title: 'Deploy on Vercel', body: 'Deploying is easy with Vercel.', authorId: 2 },
   { id: 103, title: 'App Router Demo', body: 'Multiple pages and mock APIs.', authorId: 1 },
   { id: 104, title: 'SSR Fetch FTW', body: 'Pages fetch API directly.', authorId: 3 }
